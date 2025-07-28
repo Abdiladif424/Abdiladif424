@@ -12,11 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img width="22px" height="22px" alt="image" src="https://github.com/user-attachments/assets/8ab05db0-e531-4b59-97e1-196c21e7aa4e" />
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
-
+[Handshake]: https://app.joinhandshake.com/profiles/qp83ft
