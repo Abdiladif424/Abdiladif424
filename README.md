@@ -6,9 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Abdiladif424/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Abdiladif424/osticket-postinstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Abdiladif424/osticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Abdiladif424/Activedirectory-config)
   - [Deploying Active Directory within Azure VMs](https://github.com/Abdiladif424/Activedirectory-deploy) 
+  - [Creating Users with PowerShell](https://github.com/Abdiladif424/activedirectory-powershell) 
+- <b>Azure Compute and Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
@@ -17,3 +19,4 @@
 
 [linkedin]: https://linkedin.com/in/Josh
 
+https://github.com/Abdiladif424/activedirectory-powershell 
