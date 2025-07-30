@@ -9,7 +9,8 @@
 - <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Abdiladif424/Activedirectory-config)
   - [Deploying Active Directory within Azure VMs](https://github.com/Abdiladif424/Activedirectory-deploy) 
-  - [Creating Users with PowerShell](https://github.com/Abdiladif424/activedirectory-powershell) 
+  - [Creating Users with PowerShell](https://github.com/Abdiladif424/activedirectory-powershell)
+  - [Group Policy and Managing Accounts](https://github.com/Abdiladif424/activedirectory-group-policy)
 - <b>Azure Compute and Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
