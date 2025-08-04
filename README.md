@@ -1,4 +1,6 @@
-<h1>Hi, I'm Abdiladif, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1> Welcome to My IT Portfolio 👋 </h1>
+
+Hi there! I'm an entry-level IT professional with a Bachelor’s degree in Management Information Systems (MIS). This repository is a collection of my hands-on labs as I build real-world skills in IT support, system administration, and cloud infrastructure.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +20,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/abdiladif-ahmed-260130378/
